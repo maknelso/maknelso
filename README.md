@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-I am currently a business analyst working at Amazon. I am currently learning pretty much everything. 
+I am a business analyst working at Amazon. I am currently learning pretty much everything :/
 
 Currently learning/learned 🌱: C, Java, Python, JavaScript, HTML + CSS
 
