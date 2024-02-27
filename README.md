@@ -2,9 +2,9 @@
 
 Welcome to my GitHub page!
 
-I am a business analyst working at Amazon. I am currently learning Java.
+I am an analyst working at Amazon.
 
-Currently learning/learned 🌱: C, Java, Python, JavaScript, HTML + CSS
+Languages 🌱: C, Java, Python, JavaScript, HTML + CSS
 
 I speak:
 - English
