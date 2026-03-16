@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-I am an analyst working at Amazon.
+I am an SDE working at Amazon.
 
 Languages 🌱: C, Java, Python, JavaScript, HTML + CSS
 
@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love languages in Duolingo 
 -->
