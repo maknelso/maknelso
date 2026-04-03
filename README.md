@@ -4,7 +4,7 @@ Welcome to my GitHub page!
 
 I am an SDE working at Amazon.
 
-Languages 🌱: C, Java, Python, JavaScript, HTML + CSS
+Languages 🌱: C, Java, Python, JavaScript
 
 I speak:
 - English
