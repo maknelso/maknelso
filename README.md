@@ -2,9 +2,11 @@
 
 Welcome to my GitHub page!
 
-I am an SDE working at Amazon.
+SDE at Amazon.
 
-Languages 🌱: C, Java, Python, JavaScript
+Developer website: https://nelmak.vercel.app
+
+Languages: C, Java, Python, JavaScript
 
 I speak:
 - English
