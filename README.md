@@ -1,6 +1,6 @@
-### Hi there, I am Nelson
+### Hi there, I am Nelson 👨🏻‍💻
 
-Welcome to my GitHub page!
+Welcome to my GitHub page.
 
 I am a SDE at Amazon. This is my developer website: https://nelmak.vercel.app
 
