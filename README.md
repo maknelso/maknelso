@@ -1,12 +1,10 @@
-### Hi there, I am Nelson 👋
+### Hi there, I am Nelson
 
 Welcome to my GitHub page!
 
-SDE at Amazon.
+I am a SDE at Amazon. This is my developer website: https://nelmak.vercel.app
 
-Developer website: https://nelmak.vercel.app
-
-Languages: C, Java, Python, JavaScript
+Programming languages: C, Java, Python, JavaScript
 
 I speak:
 - English
@@ -18,11 +16,10 @@ I speak:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I love languages in Duolingo 
+- 📫 How to reach me: check out my developer website!
+- ⚡ Fun fact: I love languages in Duolingo - learning Spanish, Japanese, French
 -->
