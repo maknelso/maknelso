@@ -4,19 +4,33 @@ Welcome to my GitHub page.
 
 I am a SDE at Amazon. This is my developer website: https://nelmak.vercel.app
 
-Programming languages: C, Java, Python, JavaScript
+Programming languages: 
+- C
+- Java
+- Python
+- JavaScript
+
+Frameworks:
+- React
+- Spring Boot
+- Django
+- Flask
 
 I speak:
 - English
 - Mandarin
 - Cantonese
 
+- 🔭 I’m currently working on
+  - Kotlin
+  - Swift
+
 <!--
 **maknelso/maknelso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
