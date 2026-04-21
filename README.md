@@ -16,9 +16,16 @@ I am a SDE at Amazon Web Services. Visit my developer website here: https://nelm
 - Django
 - Flask
 
+**Tools I love:**
+- Docker (containerization - doesn't everyone love it?)
+- Spring Boot (reduce boilerplate work!)
+- Redis
+- Git! (how did people work before Git?!)
+
 **👨🏻‍🔬 I’m currently working/studying:**
-  - Kotlin
-  - Swift
+  - Kotlin (for personal project)
+  - Swift (for personal project)
+  - Golang
 
 **I speak human languages:**
 - English
